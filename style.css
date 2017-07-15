@@ -19,6 +19,10 @@ Anissa WordPress Theme is distributed under the terms of the GNU GPL
     border-bottom-width: 5px;
 }
 
+.site-title, .site-description {
+    text-shadow: 0 0 5px black;
+}
+
 @media screen and (min-width: 751px) and (max-width: 950px) {
     .hentry {
         margin: 1.6em 0 3.8em;
