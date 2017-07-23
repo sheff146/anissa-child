@@ -56,10 +56,22 @@ h1, h2, h3, h4, h5, h6 {
     .hentry {
         margin: 1.6em 0 3.8em;
     }
+
+    .entry-content, .page-content {
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
 }
 
 @media screen and (max-width: 650px) {
     .hentry {
         margin: 1.6em 0 3.8em;
+    }
+
+    .entry-content, .page-content {
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
     }
 }
