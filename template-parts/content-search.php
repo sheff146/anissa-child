@@ -26,7 +26,7 @@
     </header><!-- .entry-header -->
 
     <div class="entry-summary">
-        <?php the_content('Читать далее'); ?>
+        <?php the_content('Читать'); ?>
     </div><!-- .entry-excerpt -->
 
 </article><!-- #post-## -->
